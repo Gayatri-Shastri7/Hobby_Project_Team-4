@@ -3,8 +3,11 @@
 ## Phase-I(done)
 Machine Learning model to predict credit card approval 
 <br>
-## Phase-II (In Progress)
-Deploy using flask 
+## Phase-II (Done)
+Used flask 
+<br>
+## Phase-III (Done)
+Used streamlit
 <br>
 ## Presentation
 
